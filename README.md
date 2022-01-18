@@ -6,5 +6,5 @@ Given .txt files containing DNA of individuals from various regions, an excel sp
 
 * Recursively walking through directories
 * Handling mass data
-* Working with .txt files
+* Reading with .txt files
 * Writing to .csv file
