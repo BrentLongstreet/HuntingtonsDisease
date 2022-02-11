@@ -7,4 +7,4 @@ Given .txt files containing DNA sequences of individuals from various geographic
 * Recursively walking through directories
 * Handling mass data
 * Reading with .txt files
-* Writing to .csv file
+* Writing to .csv files
